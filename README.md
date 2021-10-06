@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shuggy75 aka Hugh Corley
+- 👀 I’m interested in data science and archaeology
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to collaborate on anything that will help be develop data science skills using interesting data.
+- 📫 You can reach me at hscorley@gmail.com
